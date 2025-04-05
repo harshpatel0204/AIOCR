@@ -1,0 +1,8 @@
+opencv-python==4.10.0.84
+paddleocr==2.8.1
+paddlepaddle==2.6.1
+ultralytics==8.2.76
+pydicom==2.4.4
+pyinstaller==6.10.0
+pyodbc==5.2.0
+streamlit==1.43.2
